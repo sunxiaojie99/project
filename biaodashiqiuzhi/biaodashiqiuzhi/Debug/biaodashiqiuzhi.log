@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\project\biaodashiqiuzhi\biaodashiqiuzhi\源.cpp(377): warning C4101: “k”: 未引用的局部变量
+d:\project\biaodashiqiuzhi\biaodashiqiuzhi\源.cpp(68): warning C4715: “judge”: 不是所有的控件路径都返回值
+  biaodashiqiuzhi.vcxproj -> D:\project\biaodashiqiuzhi\Debug\biaodashiqiuzhi.exe

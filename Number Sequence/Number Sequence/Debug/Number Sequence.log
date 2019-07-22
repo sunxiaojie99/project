@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\project++\number sequence\number sequence\源.cpp(24): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+d:\project++\number sequence\number sequence\源.cpp(28): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+d:\project++\number sequence\number sequence\源.cpp(37): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  Number Sequence.vcxproj -> D:\project++\Number Sequence\Debug\Number Sequence.exe

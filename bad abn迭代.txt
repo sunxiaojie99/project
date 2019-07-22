@@ -1,0 +1,52 @@
+/*
+f(1) = 1, f(2) = 1, f(n) = (A * f(n - 1) + B * f(n - 2)) mod 7.
+
+Given A, B, and n, you are going to calculate the value of f(n).
+*/
+
+#include<iostream>
+#include<math.h>
+using namespace std;
+int f(int a,int b,long long int n)
+{
+	int res[100005];
+	res[1]=1;
+	res[2]=1;
+	if(n>2)
+	{
+		for(long long int i=3;i<=n;i++)
+		{
+			res[i]=(a*res[i-1]+b*res[i-2])%7;
+		}
+	}
+	return res[n];
+}
+int main()
+{
+	int a,b;
+	int i=0;
+	int j=0;
+	long long int x[10000][5];
+	long long int n;
+	for(;;)
+	{
+	cin>>a>>b>>n;
+	if(a==0&&b==0&&n==0)
+		break;
+	x[i][j++]=a;
+	x[i][j++]=b;
+	x[i][j++]=n;
+	j=0;
+	i++;
+	}
+	i--;
+	for(int k=0;k<=i;k++)
+	{
+		if(k!=0)cout<<endl;
+		a=x[k][0];b=x[k][1];n=x[k][2];
+		cout<<f(a,b,n);
+		j=0;
+	}
+	system("pause");
+	return 0;
+}

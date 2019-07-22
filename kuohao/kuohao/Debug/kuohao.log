@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\project\kuohao\kuohao\源.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+d:\project\kuohao\kuohao\源.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+d:\project\kuohao\kuohao\源.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+  kuohao.vcxproj -> D:\project\kuohao\Debug\kuohao.exe

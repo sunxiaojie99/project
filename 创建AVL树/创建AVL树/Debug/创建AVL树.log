@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\project\创建avl树\创建avl树\源.cpp(189): warning C4715: “check”: 不是所有的控件路径都返回值
+d:\project\创建avl树\创建avl树\源.cpp(230): warning C4715: “search”: 不是所有的控件路径都返回值
+  创建AVL树.vcxproj -> D:\project\创建AVL树\Debug\创建AVL树.exe

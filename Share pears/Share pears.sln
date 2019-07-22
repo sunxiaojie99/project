@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Share pears", "Share pears\Share pears.vcxproj", "{4993FD30-98F3-49D6-806A-9CBD0331FF30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4993FD30-98F3-49D6-806A-9CBD0331FF30}.Debug|x64.ActiveCfg = Debug|x64
+		{4993FD30-98F3-49D6-806A-9CBD0331FF30}.Debug|x64.Build.0 = Debug|x64
+		{4993FD30-98F3-49D6-806A-9CBD0331FF30}.Debug|x86.ActiveCfg = Debug|Win32
+		{4993FD30-98F3-49D6-806A-9CBD0331FF30}.Debug|x86.Build.0 = Debug|Win32
+		{4993FD30-98F3-49D6-806A-9CBD0331FF30}.Release|x64.ActiveCfg = Release|x64
+		{4993FD30-98F3-49D6-806A-9CBD0331FF30}.Release|x64.Build.0 = Release|x64
+		{4993FD30-98F3-49D6-806A-9CBD0331FF30}.Release|x86.ActiveCfg = Release|Win32
+		{4993FD30-98F3-49D6-806A-9CBD0331FF30}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23C92643-11CE-4C61-9B2A-16EC21897B53}
+	EndGlobalSection
+EndGlobal

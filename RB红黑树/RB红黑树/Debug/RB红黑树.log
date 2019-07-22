@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\project\rb红黑树\rb红黑树\源.cpp(139): warning C4101: “p”: 未引用的局部变量
+d:\project\rb红黑树\rb红黑树\源.cpp(139): warning C4101: “f”: 未引用的局部变量
+d:\project\rb红黑树\rb红黑树\源.cpp(179): warning C4715: “findbrother”: 不是所有的控件路径都返回值
+  RB红黑树.vcxproj -> D:\project\RB红黑树\Debug\RB红黑树.exe

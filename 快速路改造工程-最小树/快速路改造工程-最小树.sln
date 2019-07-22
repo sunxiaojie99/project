@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "快速路改造工程-最小树", "快速路改造工程-最小树\快速路改造工程-最小树.vcxproj", "{DE81CE1D-6E7A-4B49-9B8B-35F3DFB09003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE81CE1D-6E7A-4B49-9B8B-35F3DFB09003}.Debug|x64.ActiveCfg = Debug|x64
+		{DE81CE1D-6E7A-4B49-9B8B-35F3DFB09003}.Debug|x64.Build.0 = Debug|x64
+		{DE81CE1D-6E7A-4B49-9B8B-35F3DFB09003}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE81CE1D-6E7A-4B49-9B8B-35F3DFB09003}.Debug|x86.Build.0 = Debug|Win32
+		{DE81CE1D-6E7A-4B49-9B8B-35F3DFB09003}.Release|x64.ActiveCfg = Release|x64
+		{DE81CE1D-6E7A-4B49-9B8B-35F3DFB09003}.Release|x64.Build.0 = Release|x64
+		{DE81CE1D-6E7A-4B49-9B8B-35F3DFB09003}.Release|x86.ActiveCfg = Release|Win32
+		{DE81CE1D-6E7A-4B49-9B8B-35F3DFB09003}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6DEAC19-9B07-44D0-8A61-7E46A45FC226}
+	EndGlobalSection
+EndGlobal
